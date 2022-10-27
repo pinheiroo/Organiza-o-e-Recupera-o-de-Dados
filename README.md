@@ -5,3 +5,5 @@ TrabalhoPaulo.c - Primeiro trabalho de ORD utilizando manipulação de arquivos 
 No trabalho é dado uma lista (games) de jogos e devemos adicionar/remover/visualizar a lista. Essas manipulações devem ser feitos em um novo arquivo em binário. (*.dat)
 
 Arquivo funcoes.h utiliza funções simples para o funcionamento do código principal (TrabalhoPaulo.c)
+
+trab2.c - Segundo Trabalho de ORD utilizando hash extensível para organização de dados.
